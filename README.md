@@ -9,3 +9,6 @@ connected to my ec2 instance
 downloaded apache maven and amazon coretto 
 ![image](https://github.com/user-attachments/assets/27fb368e-a3f5-4cb8-a999-ed9f0acab0fc)
 
+created the application
+![image](https://github.com/user-attachments/assets/d1b928ce-6dee-4d5b-91f9-240d043ab687)
+
